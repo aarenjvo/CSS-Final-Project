@@ -3,7 +3,7 @@
     font-family: 'Noto Sans', sans-serif;
     font-family: 'Noto Serif', serif;
     font-family: 'Playfair Display', serif;
-    border: 1px solid salmon;
+    /* border: 1px solid salmon; */
     margin: 0;
 }
 
@@ -123,7 +123,7 @@ nav ul li a {
     height: 65vh;
     position: relative;
     top:-15vh;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     padding-bottom: 0;
     
 }
@@ -196,8 +196,8 @@ main section {
 .collection-module {
     display: flex;
     justify-content: center;
-    width: 100%;
-    margin: 0 auto;
+    width: 95%;
+    margin: 2px auto;
 }
 
 .mod1 {
@@ -314,8 +314,9 @@ main section {
 .collection-module2 {
     display: flex;
     justify-content: center;
-    width: 100%;
+    width: 95%;
     margin: 0 auto;
+    margin-bottom: 10px;
 }
 
 .mod3 {
@@ -418,9 +419,8 @@ main section {
     background-color: #f5f5f5;
     position: relative;
     top: -7vh;
-    padding-bottom: 0;
-    padding-top: 1%;
-    height: 45vh;
+    padding: 1% 0;
+    height: 100%;
     width: 100%;
     margin: 0 auto;
 }
